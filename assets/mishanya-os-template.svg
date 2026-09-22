@@ -15,7 +15,7 @@
     <text x="52" y="164" font-size="22" fill="#8b949e">boot mishanya_os.exe</text>
     <text x="28" y="208" font-size="22" fill="#58a6ff">status:</text>
     <text x="126" y="208" font-size="22" fill="#c9d1d9">building strange little things after 4AM</text>
-    <rect x="658" y="188" width="12" height="24" fill="#7ee787">
+    <rect x="620" y="188" width="12" height="24" fill="#7ee787">
       <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
     </rect>
 
@@ -104,7 +104,6 @@
     <text x="35" y="983" font-size="17" fill="#58a6ff">quests</text>
     <text x="180" y="983" font-size="17" fill="#8b949e">projects worth showing</text>
 
-    <line x1="28" y1="1023" x2="872" y2="1023" stroke="#30363d"/>
     <text x="28" y="1063" font-size="18" fill="#7ee787">C:\Users\Mishanya&gt;</text>
     <text x="238" y="1063" font-size="18" fill="#c9d1d9">repository_guardian.exe</text>
     <text x="450" y="1087" text-anchor="middle" font-size="17" fill="#d29922">Oh... Hello there.</text>
