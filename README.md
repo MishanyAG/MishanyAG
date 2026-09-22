@@ -77,7 +77,7 @@
 <br>
 
 <a id="repository-guardian"></a>
-<details>
+<details open>
 <summary><code>C:\Users\Mishanya&gt; type repository_guardian.txt</code></summary>
 
 <br>
