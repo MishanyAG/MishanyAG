@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="#mishanya-os"><img src="./assets/mishanya-os-full.svg" alt="Mishanya OS" width="100%" /></a>
+<a href="#mishanya-os"><img src="./assets/mishanya-os-live.svg" alt="Mishanya OS" width="100%" /></a>
 
 </div>
 
