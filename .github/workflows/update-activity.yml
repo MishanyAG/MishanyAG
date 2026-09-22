@@ -7,7 +7,8 @@ on:
   push:
     paths:
       - ".github/workflows/update-activity.yml"
-      - "scripts/generate_activity.py"\n      - "assets/mishanya-os-template.svg"
+      - "scripts/generate_activity.py"
+      - "assets/mishanya-os-template.svg"
 
 permissions:
   contents: write
@@ -25,12 +26,12 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate activity card
+      - name: Generate unified terminal
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/generate_activity.py
 
-      - name: Commit updated card
+      - name: Commit updated terminal
         run: |
           if git diff --quiet -- assets/mishanya-os-full.svg; then
             echo "No activity changes."
