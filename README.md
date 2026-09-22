@@ -1,31 +1,68 @@
+<a id="mishanya-os"></a>
+
 <div align="center">
 
-<img src="./assets/mishanya-os.svg" alt="Mishanya OS" width="100%" />
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,rust,cs,unity,ts,react,java,spring,git&theme=dark" alt="inventory" />
+<a href="#mishanya-os"><img src="./assets/mishanya-os.svg" alt="Mishanya OS" width="100%" /></a>
 
 </div>
 
 <br>
 
-### `> activity --last 7d`
+<a id="inventory"></a>
+<details open>
+<summary><code>Mishanya@github:~$ inventory --pretty</code></summary>
+
+<br>
 
 <div align="center">
 
-<img src="./assets/activity.svg" alt="Weekly activity" width="100%" />
+<a href="#inventory"><img src="./assets/inventory.svg" alt="Inventory" width="100%" /></a>
 
 </div>
 
-### `> ls ./quests`
+</details>
 
-- 🚢 [`titanic-survival-prediction/`](https://github.com/MishanyAG/titanic-survival-prediction) — machine learning playground with pipelines, tuning, error analysis and feature importance.
-- 🔒 `???/` — locked.
-- 🔒 `???/` — probably being coded at an unreasonable hour.
+<br>
+
+<a id="activity"></a>
+<details open>
+<summary><code>Mishanya@github:~$ activity --last 7d</code></summary>
+
+<br>
+
+<div align="center">
+
+<a href="#activity"><img src="./assets/activity.svg" alt="Weekly activity" width="100%" /></a>
+
+</div>
+
+</details>
+
+<br>
+
+<a id="quests"></a>
+<details open>
+<summary><code>Mishanya@github:~$ ls ./quests</code></summary>
+
+<br>
+
+```text
+drwxr-xr-x  titanic-survival-prediction/
+drwx------  ???/
+drwx------  ???/
+
+2 directories are still locked.
+probably for everyone's safety.
+```
+
+[`> open ./quests/titanic-survival-prediction`](https://github.com/MishanyAG/titanic-survival-prediction)
+
+</details>
+
+<br>
 
 <details>
-<summary><code>> cat classified.txt</code></summary>
+<summary><code>Mishanya@github:~$ cat classified.txt</code></summary>
 
 <br>
 
@@ -43,8 +80,10 @@ warning:
 
 </details>
 
+<br>
+
 <details>
-<summary><code>> help</code></summary>
+<summary><code>Mishanya@github:~$ help</code></summary>
 
 <br>
 
