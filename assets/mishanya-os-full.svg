@@ -67,7 +67,7 @@
     <text x="28" y="458" font-size="18" fill="#7ee787">C:\Users\Mishanya&gt;</text>
     <text x="238" y="458" font-size="18" fill="#c9d1d9">activity --last 7d</text>
 
-    <text x="30" y="505" font-size="27" fill="#f0f6fc">45</text>
+    <text x="30" y="505" font-size="27" fill="#f0f6fc">46</text>
     <text x="76" y="505" font-size="18" fill="#8b949e">PLEASE STOP</text>
     <text x="790" y="508" font-size="35">🫠</text>
     <circle cx="832" cy="489" r="4" fill="#58a6ff">
@@ -107,7 +107,7 @@
     <text x="35" y="983" font-size="17" fill="#58a6ff">quests</text>
     <text x="180" y="983" font-size="17" fill="#8b949e">projects worth showing</text>
 
-    <line x1="28" y1="1078" x2="872" y2="1078" stroke="#30363d"/>
+    <line x1="28" y1="1023" x2="872" y2="1023" stroke="#30363d"/>
     <text x="28" y="1063" font-size="18" fill="#7ee787">C:\Users\Mishanya&gt;</text>
     <text x="238" y="1063" font-size="18" fill="#c9d1d9">repository_guardian.exe</text>
     <text x="450" y="1087" text-anchor="middle" font-size="17" fill="#d29922">Oh... Hello there.</text>
