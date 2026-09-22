@@ -7,7 +7,7 @@ from pathlib import Path
 from urllib.request import Request, urlopen
 
 USER = "MishanyAG"
-OUT = Path("assets/activity.svg")
+OUT = Path("assets/activity-v2.svg")
 
 
 def get_weekly_public_commits() -> int:
