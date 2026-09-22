@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<a href="#inventory"><img src="./assets/inventory.svg?v=3" alt="Inventory" width="100%" /></a>
+<a href="#inventory"><img src="./assets/inventory-v2.svg" alt="Inventory" width="100%" /></a>
 
 </div>
 
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<a href="#activity"><img src="./assets/activity.svg?v=3" alt="Weekly activity" width="100%" /></a>
+<a href="#activity"><img src="./assets/activity-v2.svg" alt="Weekly activity" width="100%" /></a>
 
 </div>
 
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-<a href="#quests"><img src="./assets/quests.svg?v=3" alt="Quests" width="100%" /></a>
+<a href="#quests"><img src="./assets/quests.svg" alt="Quests" width="100%" /></a>
 
 <br>
 
