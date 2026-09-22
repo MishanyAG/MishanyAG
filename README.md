@@ -4,18 +4,10 @@
 
 <a href="#mishanya-os"><img src="./assets/mishanya-os-full.svg" alt="Mishanya OS" width="100%" /></a>
 
-<br><br>
-
-<code>after 4AM // one last commit</code>
-
 </div>
 
-<br>
-
 <details>
-<summary><code>C:\Users\Mishanya&gt; exit</code></summary>
-
-<br>
+<summary><img src="./assets/exit-command.svg" alt="C:\Users\Mishanya> exit" width="100%" /></summary>
 
 <div align="center">
 
@@ -24,11 +16,3 @@
 </div>
 
 </details>
-
-<br>
-
-<div align="center">
-
-<img src="./assets/repository-guardian.svg" alt="Repository guardian" width="100%" />
-
-</div>
