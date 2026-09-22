@@ -1,13 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150">
   <rect width="900" height="150" rx="18" fill="#0d1117"/>
   <rect x="1" y="1" width="898" height="148" rx="17" fill="none" stroke="#30363d"/>
+
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
-    <text x="30" y="45" font-size="19" fill="#8b949e">weekly public commits</text>
-    <text x="30" y="88" font-size="25" fill="#c9d1d9">[ syncing activity... ]</text>
-    <text x="810" y="88" font-size="30">😴</text>
-    <rect x="30" y="112" width="790" height="12" rx="6" fill="#21262d"/>
-    <rect x="30" y="112" width="90" height="12" rx="6" fill="#238636">
-      <animate attributeName="width" values="20;90;20" dur="2.4s" repeatCount="indefinite"/>
+    <text x="30" y="42" font-size="18" fill="#8b949e">weekly public commits</text>
+    <text x="30" y="82" font-size="27" fill="#f0f6fc">0</text>
+    <text x="78" y="82" font-size="18" fill="#8b949e">hibernating peacefully</text>
+
+    <text x="805" y="82" font-size="35">😴</text>
+    
+
+    <rect x="30" y="108" width="790" height="14" rx="7" fill="#21262d"/>
+    <rect x="30" y="108" width="8" height="14" rx="7" fill="#238636">
+      <animate attributeName="width" from="8" to="8" dur="0.9s" fill="freeze"/>
     </rect>
+
+    <text x="830" y="120" font-size="13" fill="#8b949e">0/25</text>
   </g>
 </svg>
