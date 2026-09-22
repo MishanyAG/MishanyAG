@@ -79,8 +79,8 @@ def render(count: int) -> str:
   <circle cx="68" cy="25" r="6" fill="#27c93f"/>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
-    <text x="28" y="61" font-size="18" fill="#7ee787">Mishanya@github:~$</text>
-    <text x="226" y="61" font-size="18" fill="#c9d1d9">activity --last 7d</text>
+    <text x="28" y="61" font-size="18" fill="#7ee787">C:\\Users\\Mishanya&gt;</text>
+    <text x="238" y="61" font-size="18" fill="#c9d1d9">activity --last 7d</text>
 
     <text x="30" y="108" font-size="27" fill="#f0f6fc">{count}</text>
     <text x="76" y="108" font-size="18" fill="#8b949e">{status}</text>
