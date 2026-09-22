@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320">
+  <rect width="900" height="320" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="898" height="318" rx="17" fill="none" stroke="#30363d"/>
+  <circle cx="28" cy="25" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="25" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="25" r="6" fill="#27c93f"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="28" y="61" font-size="18" fill="#7ee787">C:\Users\Mishanya&gt;</text>
+    <text x="238" y="61" font-size="18" fill="#c9d1d9">cat classified.txt</text>
+
+    <text x="35" y="105" font-size="18" fill="#7ee787">access granted.</text>
+
+    <text x="35" y="149" font-size="18" fill="#58a6ff">current objective:</text>
+    <text x="60" y="184" font-size="18" fill="#c9d1d9">build strange little things</text>
+    <text x="60" y="217" font-size="18" fill="#c9d1d9">learn stuff</text>
+    <text x="60" y="250" font-size="18" fill="#c9d1d9">survive "one last commit"</text>
+
+    <text x="35" y="292" font-size="17" fill="#d29922">warning:</text>
+    <text x="130" y="292" font-size="17" fill="#8b949e">sleep schedule may be unstable.</text>
+  </g>
+</svg>
