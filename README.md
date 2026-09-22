@@ -7,7 +7,9 @@
 </div>
 
 <details>
-<summary><img src="./assets/exit-command.svg" alt="C:\Users\Mishanya> exit" width="100%" /></summary>
+<summary><code>C:\Users\Mishanya&gt; exit</code></summary>
+
+<br>
 
 <div align="center">
 
