@@ -10,7 +10,7 @@ from urllib.request import Request, urlopen
 
 USER = "MishanyAG"
 TEMPLATE = Path("assets/mishanya-os-template.svg")
-OUT = Path("assets/mishanya-os-live.svg")
+OUT = Path("assets/mishanya-os-final.svg")
 
 
 def api_get(url: str):
