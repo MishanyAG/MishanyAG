@@ -10,7 +10,7 @@
 
 <a id="inventory"></a>
 <details open>
-<summary><code>Mishanya@github:~$ inventory --pretty</code></summary>
+<summary><code>C:\Users\Mishanya&gt; inventory --pretty</code></summary>
 
 <br>
 
@@ -26,7 +26,7 @@
 
 <a id="activity"></a>
 <details open>
-<summary><code>Mishanya@github:~$ activity --last 7d</code></summary>
+<summary><code>C:\Users\Mishanya&gt; activity --last 7d</code></summary>
 
 <br>
 
@@ -42,58 +42,51 @@
 
 <a id="quests"></a>
 <details open>
-<summary><code>Mishanya@github:~$ ls ./quests</code></summary>
+<summary><code>C:\Users\Mishanya&gt; ls ./quests</code></summary>
 
 <br>
 
-```text
-drwxr-xr-x  titanic-survival-prediction/
-drwx------  ???/
-drwx------  ???/
+<div align="center">
 
-2 directories are still locked.
-probably for everyone's safety.
-```
+<a href="#quests"><img src="./assets/quests.svg" alt="Quests" width="100%" /></a>
 
-[`> open ./quests/titanic-survival-prediction`](https://github.com/MishanyAG/titanic-survival-prediction)
+<br>
+
+<a href="https://github.com/MishanyAG/titanic-survival-prediction"><code>C:\Users\Mishanya&gt; start .\quests\titanic-survival-prediction</code></a>
+
+</div>
 
 </details>
 
 <br>
 
+<a id="classified"></a>
 <details>
-<summary><code>Mishanya@github:~$ cat classified.txt</code></summary>
+<summary><code>C:\Users\Mishanya&gt; cat classified.txt</code></summary>
 
 <br>
 
-```text
-access granted.
+<div align="center">
 
-current objective:
-  build strange little things
-  learn stuff
-  survive "one last commit"
+<a href="#classified"><img src="./assets/classified.svg" alt="Classified information" width="100%" /></a>
 
-warning:
-  sleep schedule may be unstable.
-```
+</div>
 
 </details>
 
 <br>
 
+<a id="help"></a>
 <details>
-<summary><code>Mishanya@github:~$ help</code></summary>
+<summary><code>C:\Users\Mishanya&gt; help</code></summary>
 
 <br>
 
-```text
-whoami      — definitely Mishanya
-inventory   — things I use to break things
-activity    — weekly public GitHub commits
-quests      — projects worth showing
-exit        — nice try
-```
+<div align="center">
+
+<a href="#help"><img src="./assets/help.svg" alt="Help" width="100%" /></a>
+
+</div>
 
 </details>
 
@@ -101,6 +94,6 @@ exit        — nice try
 
 <div align="center">
 
-`after 4AM // one last commit`
+<code>after 4AM // one last commit</code>
 
 </div>
