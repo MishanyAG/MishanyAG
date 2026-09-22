@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="270" viewBox="0 0 900 270">
+  <rect width="900" height="270" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="898" height="268" rx="17" fill="none" stroke="#30363d"/>
+  <circle cx="28" cy="25" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="25" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="25" r="6" fill="#27c93f"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="28" y="61" font-size="18" fill="#7ee787">C:\Users\Mishanya&gt;</text>
+    <text x="238" y="61" font-size="18" fill="#c9d1d9">ls ./quests</text>
+
+    <text x="35" y="108" font-size="18" fill="#8b949e">drwxr-xr-x</text>
+    <text x="190" y="108" font-size="18" fill="#58a6ff">titanic-survival-prediction/</text>
+
+    <text x="35" y="145" font-size="18" fill="#8b949e">drwx------</text>
+    <text x="190" y="145" font-size="18" fill="#c9d1d9">???/</text>
+    <text x="35" y="182" font-size="18" fill="#8b949e">drwx------</text>
+    <text x="190" y="182" font-size="18" fill="#c9d1d9">???/</text>
+
+    <text x="35" y="226" font-size="16" fill="#d29922">2 directories locked.</text>
+    <text x="235" y="226" font-size="16" fill="#8b949e">probably for everyone's safety.</text>
+
+    <rect x="35" y="241" width="10" height="18" fill="#7ee787">
+      <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
