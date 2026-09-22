@@ -77,7 +77,7 @@
 <br>
 
 <a id="repository-guardian"></a>
-<details open>
+<details>
 <summary><code>C:\Users\Mishanya&gt; type repository_guardian.txt</code></summary>
 
 <br>
@@ -136,7 +136,7 @@
 
 <div align="center">
 
-<a href="#help"><img src="./assets/help.svg?v=3" alt="Help" width="100%" /></a>
+<a href="#help"><img src="./assets/help-v2.svg?v=3" alt="Help" width="100%" /></a>
 
 </div>
 
