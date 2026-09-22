@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+  <rect width="900" height="300" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="898" height="298" rx="17" fill="none" stroke="#30363d"/>
+  <circle cx="28" cy="25" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="25" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="25" r="6" fill="#27c93f"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="28" y="61" font-size="18" fill="#7ee787">C:\Users\Mishanya&gt;</text>
+    <text x="238" y="61" font-size="18" fill="#c9d1d9">help</text>
+
+    <text x="35" y="110" font-size="18" fill="#58a6ff">whoami</text>
+    <text x="175" y="110" font-size="18" fill="#8b949e">definitely Mishanya</text>
+
+    <text x="35" y="150" font-size="18" fill="#58a6ff">inventory</text>
+    <text x="175" y="150" font-size="18" fill="#8b949e">things I use to break things</text>
+
+    <text x="35" y="190" font-size="18" fill="#58a6ff">activity</text>
+    <text x="175" y="190" font-size="18" fill="#8b949e">weekly public GitHub commits</text>
+
+    <text x="35" y="230" font-size="18" fill="#58a6ff">quests</text>
+    <text x="175" y="230" font-size="18" fill="#8b949e">projects worth showing</text>
+
+    <text x="35" y="270" font-size="18" fill="#f85149">exit</text>
+    <text x="175" y="270" font-size="18" fill="#8b949e">nice try</text>
+  </g>
+</svg>
