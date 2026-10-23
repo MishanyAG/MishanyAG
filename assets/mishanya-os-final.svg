@@ -64,19 +64,16 @@
     <text x="28" y="458" font-size="18" fill="#7ee787">C:\Users\Mishanya&gt;</text>
     <text x="238" y="458" font-size="18" fill="#c9d1d9">activity --last 7d</text>
 
-    <text x="30" y="505" font-size="27" fill="#f0f6fc">52</text>
-    <text x="76" y="505" font-size="18" fill="#8b949e">PLEASE STOP</text>
-    <text x="790" y="508" font-size="35">🫠</text>
-    <circle cx="832" cy="489" r="4" fill="#58a6ff">
-      <animate attributeName="cy" values="489;515;489" dur="1.45s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="1;0;1" dur="1.45s" repeatCount="indefinite"/>
-    </circle>
+    <text x="30" y="505" font-size="27" fill="#f0f6fc">0</text>
+    <text x="76" y="505" font-size="18" fill="#8b949e">hibernating peacefully</text>
+    <text x="790" y="508" font-size="35">😴</text>
+    
 
     <rect x="30" y="534" width="705" height="14" rx="7" fill="#21262d"/>
-    <rect x="30" y="534" width="705" height="14" rx="7" fill="#238636">
-      <animate attributeName="width" from="8" to="705" dur="0.9s" fill="freeze"/>
+    <rect x="30" y="534" width="8" height="14" rx="7" fill="#238636">
+      <animate attributeName="width" from="8" to="8" dur="0.9s" fill="freeze"/>
     </rect>
-    <text x="755" y="546" font-size="13" fill="#8b949e">25/25</text>
+    <text x="755" y="546" font-size="13" fill="#8b949e">0/25</text>
 
     <line x1="28" y1="580" x2="872" y2="580" stroke="#30363d"/>
     <text x="28" y="618" font-size="18" fill="#7ee787">C:\Users\Mishanya&gt;</text>
